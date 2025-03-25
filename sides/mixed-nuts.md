@@ -1,4 +1,4 @@
-# MIxed NUts
+# Mixed NUts
 
 ## Ingredients
 
@@ -9,3 +9,4 @@
 ## Instructions
 
 - mix em all
+- add some salt
