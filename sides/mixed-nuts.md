@@ -1,4 +1,4 @@
-# Mixed NUts
+# Mixed Nuts
 
 ## Ingredients
 
