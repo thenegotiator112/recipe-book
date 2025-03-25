@@ -7,6 +7,7 @@
 - 1 chili
 - 1 lime
 - 1 tsp salt
+- 1/2 tsp pepper
 - 1/2 onion
 - 1 Tbsp cilantro
 
